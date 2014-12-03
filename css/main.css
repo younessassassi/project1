@@ -11,23 +11,23 @@ h1 {
 
 /* body */
 img {
-	padding: 20px 0 20px 0;
+	padding: 20px 0 30px 0;
 }
 
 h2 {
 	color: #f07c17;
 	margin-bottom: 23px;
-	font-size: 200%;
+	font-size: 198%;
 }
 
 p {
 	line-height: 2;
-	font-size: 115%;
+	font-size: 114%;
 }
 
 .features {
 	border: 1px solid #ccc;
-    padding: 22px 0 22px 36px;
+    padding: 10px 0 26px 32px;
 	max-width: 500px;
 }
 
