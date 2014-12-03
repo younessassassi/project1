@@ -1,6 +1,6 @@
 * {
 	font-family: "Lucida Grande", sans-serif;
-	color: #666666;
+	color: #666;
 }
 
 /* header */
@@ -10,7 +10,6 @@ h1 {
 }
 
 /* body */
-
 img {
 	padding: 20px 0 20px 0;
 }
@@ -22,12 +21,13 @@ h2 {
 }
 
 p {
-	line-height: 2.2;
+	line-height: 2;
+	font-size: 115%;
 }
 
 .features {
-	border: 1px solid #cccccc;
-	padding: 24px 0 20px 36px;
+	border: 1px solid #ccc;
+    padding: 22px 0 22px 36px;
 	max-width: 500px;
 }
 
